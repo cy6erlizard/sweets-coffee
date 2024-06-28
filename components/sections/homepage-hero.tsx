@@ -5,12 +5,13 @@ import { ChevronIcon } from "../icons/chevron";
 
 export const HomepageHero = () => (
   <Hero>
-    <HeroImage src="/img/test1.jpg" />
-    <HeroImage src="/img/test2.jpg" />
-    <HeroImage src="/img/test3.jpg" />
-    <HeroImage src="/img/test4.jpg" />
-    <HeroImage src="/img/test5.jpg" />
-    <HeroImage src="/img/test6.jpg" />
-    <HeroImage src="/img/test7.jpg" />
+    <HeroImage src="/img/swt1.jpg" />
+    <HeroImage src="/img/swt2.jpg" />
+    <HeroImage src="/img/swt3.jpg" />
+    <HeroImage src="/img/swt4.jpg" />
+    <HeroImage src="/img/swt5.jpg" />
+    <HeroImage src="/img/swt6.jpg" />
+    <HeroImage src="/img/swt7.jpg" />
+    <HeroImage src="/img/swt8.jpg" />
   </Hero>
 );

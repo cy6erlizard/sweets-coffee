@@ -24,10 +24,15 @@ module.exports = {
       white: "#fff",
       "off-white": "#f7f8f8",
       "transparent-white": "rgba(255, 255, 255, 0.08)",
-      background: "#000212",
+      background: "#CDB4DB", // Updated color
       grey: "#858699",
       "grey-dark": "#222326",
-      "primary-text": "#b4bcd0",
+      "primary-text": "#FFC8DD", // Updated color
+      primary: "#CDB4DB", // Updated color
+      secondary: "#FFC8DD", // Updated color
+      accent: "#FFAFCC", // Updated color
+      info: "#BDE0FE", // Updated color
+      warning: "#A2D2FF", // Updated color
     },
     spacing: {
       0: "0",
