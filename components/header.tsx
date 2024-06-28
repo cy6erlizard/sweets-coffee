@@ -20,7 +20,7 @@ export const Header = () => {
               <MapIcon />
             </div>
           </Link>
-          <Link href="https://www.facebook.com/people/Sweets-coffee/100075976747374/">
+          <Link href="https://www.facebook.com/profile.php?id=100075976747374&mibextid=ZbWKwL">
             <div className="relative block w-10 h-10 shadow-md overflow-hidden cursor-pointer">
               <FacebookIcon />
             </div>
